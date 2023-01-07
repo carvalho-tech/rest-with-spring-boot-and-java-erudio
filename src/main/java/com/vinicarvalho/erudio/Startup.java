@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ErudioApplication {
+public class Startup {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ErudioApplication.class, args);
+
+		SpringApplication.run(Startup.class, args);
 	}
 
 }
